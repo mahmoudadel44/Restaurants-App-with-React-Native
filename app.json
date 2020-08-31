@@ -19,19 +19,6 @@
     "android": {
       "package": "com.yourcompany.yourappname",
       "versionCode": 1
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "sdkVersion": "38.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "ios": {
-      "bundleIdentifier": "com.yourcompany.yourappname"
-    },
-    "entryPoint": "node_modules/expo/AppEntry.js"
+    }
   }
 }
